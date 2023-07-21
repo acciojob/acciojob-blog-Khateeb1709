@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
 .optimization{
+	height: 200px;
 	width: 200px;
 }
 
-h2{
+h1{
 	color: purple;
 	text-decoration: underline;
 }
